@@ -1,5 +1,5 @@
 ### Cześć 👋!
-Jestem hobbystą informatykiem, część z mojej pracy publikuję tutaj na GitGubie
+Jestem hobbystą informatykiem, część z mojej pracy publikuję tutaj na GitHubie
 <!--
 **koliwbr/koliwbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
